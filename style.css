@@ -1,0 +1,27 @@
+#imgLogo {
+	margin-top: 100px;
+}
+
+#imgLogoSmall {
+	width: 120px;
+    margin-top: 5px;
+}
+
+div#newlga:focus, div#newhplogo:focus  {
+    outline: none !important;
+}
+
+
+#imgLogo, #imgLogoSmall, #newlga, #newhplogo {
+	user-drag: none; 
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;	
+}
+
+/* Added on v1.3 */
+.ddldr {
+    display: none;
+}
