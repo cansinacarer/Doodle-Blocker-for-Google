@@ -1,7 +1,7 @@
 {
 	"name": "Doodle Blocker for Google™",
 	"description": "Removes doodles from Google™ homepage and search pages, replaces it with the Google™ logo.",
-	"version": "1.9",
+	"version": "1.10",
 	"content_scripts": [
 		{
 			"css": ["style.css"],
